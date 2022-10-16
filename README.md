@@ -19,7 +19,7 @@
 
 安装:
 
-  sudo dpkg -i merry-cursors
+  sudo dpkg -i merry-cursors.deb
 
 卸载:
 
